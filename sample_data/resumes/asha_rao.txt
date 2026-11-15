@@ -1,0 +1,9 @@
+Asha Rao
+Summary
+Backend engineer focused on Python services and REST APIs.
+Skills
+Python, Django, FastAPI, PostgreSQL, Docker, REST APIs, pytest
+Projects
+Built an order-tracking REST API with FastAPI and PostgreSQL, containerised with Docker.
+Education
+B.Tech Computer Science, 2025

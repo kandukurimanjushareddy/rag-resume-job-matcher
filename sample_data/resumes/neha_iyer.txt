@@ -1,0 +1,9 @@
+Neha Iyer
+Summary
+Data analyst who turns sales data into dashboards.
+Skills
+Excel, SQL, Tableau, Power BI, statistics
+Projects
+Built a Power BI dashboard tracking monthly sales by region.
+Education
+B.Com, 2024

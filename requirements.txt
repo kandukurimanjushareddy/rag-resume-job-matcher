@@ -1,0 +1,9 @@
+sentence-transformers>=2.7
+chromadb>=0.5
+numpy
+pypdf
+python-docx
+google-genai
+fastapi
+uvicorn
+pytest

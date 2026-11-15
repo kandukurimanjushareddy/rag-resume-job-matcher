@@ -1,0 +1,10 @@
+Rahul Menon
+Summary
+Machine learning engineer working on NLP and retrieval systems.
+Skills
+Python, PyTorch, Hugging Face Transformers, sentence embeddings, vector databases, ChromaDB, LangChain
+Projects
+Built a semantic search engine over support tickets using sentence-transformers and ChromaDB.
+Fine-tuned a BERT classifier to route customer queries by intent.
+Education
+B.Tech Artificial Intelligence, 2026

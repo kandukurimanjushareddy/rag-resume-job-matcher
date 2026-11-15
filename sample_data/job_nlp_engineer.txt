@@ -1,0 +1,3 @@
+We are hiring an NLP Engineer to build retrieval-augmented generation (RAG) systems.
+Requirements: Python, sentence embeddings, vector databases such as ChromaDB, semantic search,
+LangChain, and experience shipping NLP models. Docker is a plus.
